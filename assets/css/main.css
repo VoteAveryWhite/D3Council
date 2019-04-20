@@ -2942,6 +2942,9 @@
 	padding-left:15px;
 	padding-right:15px;
  }
+ .pHeader{
+	 font-size: 100%;
+ }
 
 	#banner {
 		padding: 12em 0 10em 0;
@@ -3040,6 +3043,12 @@
 			}
 			.logoStar{
 				font-size: 100%;
+			}
+			.star{
+				font-size: 80%;
+			}
+			.pHeader{
+				font-size: 80%;
 			}
 
 		}
